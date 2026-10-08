@@ -1,0 +1,6 @@
+.venv/
+embeddings/
+__pycache__/
+.project_backups/
+Dataset_train.csv/
+.ipynb_checkpoints/
